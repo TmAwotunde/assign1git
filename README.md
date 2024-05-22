@@ -3,4 +3,7 @@ Timothy Awotunde
 
 This is the first comment for exercise
 
+This is a change to README on newbranch
+
 testbranch change
+
